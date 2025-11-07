@@ -24,7 +24,7 @@
 
 ## DER (Diagrama Entidade-Relacionamento) 
 
-![DER]
+![DER](https://github.com/louise-98/project_ecommerce_sql/blob/main/Diagrama_Ecommerce.png)
 
 ---
 
@@ -41,3 +41,5 @@
 
   - Software utilizado: MySQL Workbench (IDE - Ambiente de Desenvolvimento Integrado)
   - Linguagem aplicada: SQL (Structured Query Language - Linguagem de Consulta Estruturada)
+
+---
